@@ -2,6 +2,7 @@
 
 #### Project Weekly Update Link
 https://docs.google.com/presentation/d/1AUmmJCENoASK-sIwdadiyHi0D_FeE9Tishg25ttJEak/edit#slide=id.g122e8266545_4_11
+New> https://docs.google.com/spreadsheets/d/1qLRSKx_JEgy28KiF2PqMHTx5kzm1e8f7r1nZvWcOus0/edit?usp=sharing
 
 #### Datacamp Source
 https://app.datacamp.com/learn/competitions/victoria-energy-demand
